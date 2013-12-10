@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* CSS Document */
+div.epn_settings_div{
+}
+
+div.epn_settings_div code{
+	width:80%;	
+	text-align:center;
+	padding:5%;
+	margin:5%;
+	float:left;
+	font-size: 3em; 
+	line-height:100%;
+	cursor:text;
+}
