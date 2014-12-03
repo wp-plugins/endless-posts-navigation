@@ -6,7 +6,7 @@ Tags: Endless Posts Navigation, pagination, filtering, alphabetic posts navigati
 
 Requires at least: 3.0
 Tested up to: 3.9
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Endless Posts Navigation is a great plugin to loop your posts/pages with alphabetic order. It is simple to use.
