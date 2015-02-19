@@ -1,7 +1,6 @@
 ﻿=== Endless Posts Navigation ===
 
 Contributors: fahadmahmood
-Donate link: http://goo.gl/GHX5N
 Tags: Endless Posts Navigation, pagination, filtering, alphabetic posts navigation, alphabetic posts sorting, alphabet sequence, sorting next previous posts, sorting pages, alphabetic navigation
 
 Requires at least: 3.0
